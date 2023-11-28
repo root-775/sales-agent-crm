@@ -1,0 +1,139 @@
+[25-Feb-2021 02:00:22 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[25-Feb-2021 02:00:22 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[25-Feb-2021 02:41:52 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 02:46:43 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[25-Feb-2021 02:46:43 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[25-Feb-2021 02:46:54 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 02:46:59 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[25-Feb-2021 02:46:59 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[25-Feb-2021 02:47:24 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 02:47:27 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[25-Feb-2021 02:47:27 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[25-Feb-2021 02:51:44 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 02:53:34 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 02:59:08 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 02:59:25 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 03:00:25 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 03:02:27 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 03:11:21 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 03:12:44 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 03:13:15 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 03:14:11 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 03:14:32 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[25-Feb-2021 03:15:13 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[26-Feb-2021 05:19:34 Asia/Kolkata] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[26-Feb-2021 05:27:16 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[26-Feb-2021 05:27:16 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[28-Feb-2021 12:03:34 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[28-Feb-2021 13:07:10 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[28-Feb-2021 14:32:50 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[28-Feb-2021 14:34:33 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[28-Feb-2021 14:55:35 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[28-Feb-2021 15:00:24 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[28-Feb-2021 15:02:12 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[28-Feb-2021 15:23:48 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 04:38:58 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 04:46:20 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[01-Mar-2021 04:46:20 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[01-Mar-2021 09:05:22 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:05:37 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:13:40 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:14:34 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[01-Mar-2021 09:14:34 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[01-Mar-2021 09:17:21 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:25:39 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:26:36 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[01-Mar-2021 09:26:36 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[01-Mar-2021 09:27:02 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:27:30 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:27:35 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:28:18 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:28:22 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:30:21 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:30:32 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:31:34 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[01-Mar-2021 09:31:34 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[01-Mar-2021 09:31:44 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 09:32:09 America/Los_Angeles] PHP Notice:  Undefined index: u_email in /home/nbkzkiyq953d/public_html/english/superadmin/view/editprofile.php on line 68
+[01-Mar-2021 09:32:09 America/Los_Angeles] PHP Notice:  Undefined index: u_nicename in /home/nbkzkiyq953d/public_html/english/superadmin/view/editprofile.php on line 70
+[01-Mar-2021 09:32:09 America/Los_Angeles] PHP Notice:  Undefined variable: obj in /home/nbkzkiyq953d/public_html/english/superadmin/view/editprofile.php on line 74
+[01-Mar-2021 09:32:09 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Call to a member function updateUser() on null in /home/nbkzkiyq953d/public_html/english/superadmin/view/editprofile.php:74
+Stack trace:
+#0 /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php(152): include()
+#1 /home/nbkzkiyq953d/public_html/english/superadmin/index.php(17): superadminController->editprofile()
+#2 {main}
+  thrown in /home/nbkzkiyq953d/public_html/english/superadmin/view/editprofile.php on line 74
+[01-Mar-2021 09:33:44 America/Los_Angeles] PHP Notice:  Undefined variable: POST in /home/nbkzkiyq953d/public_html/english/superadmin/view/editprofile.php on line 66
+[01-Mar-2021 09:33:48 America/Los_Angeles] PHP Notice:  Undefined variable: POST in /home/nbkzkiyq953d/public_html/english/superadmin/view/editprofile.php on line 66
+[01-Mar-2021 09:47:04 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[01-Mar-2021 09:47:04 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[01-Mar-2021 09:47:59 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 10:26:01 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 10:33:18 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[01-Mar-2021 10:38:07 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[01-Mar-2021 10:38:07 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[01-Mar-2021 14:22:19 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 14:32:10 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 14:32:12 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[01-Mar-2021 14:32:12 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[01-Mar-2021 18:17:58 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[01-Mar-2021 22:01:24 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 07:54:28 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 08:06:05 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 08:16:07 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '>' in /home/nbkzkiyq953d/public_html/english/superadmin/view/report.php on line 89
+[02-Mar-2021 08:58:05 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 09:14:13 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 09:42:05 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 09:42:07 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 09:42:45 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 09:42:46 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 09:42:47 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 09:42:47 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 09:43:17 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 09:43:18 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 09:47:06 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[02-Mar-2021 09:47:06 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[02-Mar-2021 10:13:05 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 10:13:47 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:13:49 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:13:50 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:13:50 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:13:50 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:13:51 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:14:06 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:15:12 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:15:13 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:15:14 America/Los_Angeles] PHP Notice:  Undefined offset: 0 in /home/nbkzkiyq953d/public_html/english/superadmin/controller/superadmin.php on line 29
+[02-Mar-2021 10:18:27 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[02-Mar-2021 10:18:27 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[02-Mar-2021 12:07:45 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 12:27:27 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 12:31:39 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[02-Mar-2021 12:31:39 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[02-Mar-2021 12:54:47 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[02-Mar-2021 12:54:47 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[02-Mar-2021 13:00:05 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 13:00:07 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 13:03:01 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[02-Mar-2021 13:03:01 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[02-Mar-2021 13:36:12 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 13:41:10 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 13:49:55 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[02-Mar-2021 13:49:55 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[02-Mar-2021 14:34:30 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 16:05:22 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[02-Mar-2021 16:05:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[02-Mar-2021 17:18:48 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[02-Mar-2021 19:30:07 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[02-Mar-2021 19:30:07 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[03-Mar-2021 09:42:18 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[03-Mar-2021 13:03:25 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[03-Mar-2021 13:04:31 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[03-Mar-2021 13:04:31 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[03-Mar-2021 13:57:47 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[03-Mar-2021 15:48:34 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[03-Mar-2021 19:41:22 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[03-Mar-2021 19:41:22 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
+[05-Mar-2021 14:09:10 America/Los_Angeles] PHP Notice:  Undefined index: u_username in /home/nbkzkiyq953d/public_html/english/superadmin/view/home.php on line 8
+[05-Mar-2021 14:09:38 America/Los_Angeles] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 5
+[05-Mar-2021 14:09:38 America/Los_Angeles] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nbkzkiyq953d/public_html/english/superadmin/view/navbar.php:1) in /home/nbkzkiyq953d/public_html/english/superadmin/view/logout.php on line 7
